@@ -67,8 +67,8 @@
     "querystring": "^0.2.0",
     "rc-dialog": "6.x",
     "rc-tools": "8.x",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
     "react-test-renderer": "^16.0.0"
   },
   "dependencies": {
